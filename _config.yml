@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/chenmins
 about: Free software developer
 
-baseurl: "http://open.chenmin.org/"
-url: "http://open.chenmin.org/"
+baseurl: "http://open.chenmin.org"
+url: "http://open.chenmin.org"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
