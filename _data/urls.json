@@ -1,8 +1,14 @@
 [
   {
     "text": "Home",
-    "url": "/",
+    "url": "http://www.chenmin.org",
     "icon": "fa-home",
+    "layout": "post"
+  },
+  {
+    "text": "News",
+    "url": "/",
+    "icon": "fa-calendar",
     "layout": "post"
   },
   {
