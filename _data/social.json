@@ -1,18 +1,18 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-weixin",
+    "link": "/weixin"
   },
   {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fa-weibo",
+    "link": "http://weibo.com/chensoft"
   },
   {
-    "icon": "fa-linkedin",
-    "link": ""
+    "icon": "fa-qq",
+    "link": "/qq"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/chenmins"
   }
 ]

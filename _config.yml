@@ -7,6 +7,7 @@ about: Free software developer
 
 baseurl: "http://open.chenmin.org"
 url: "http://open.chenmin.org"
+rooturl: "http://www.chenmin.org"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
