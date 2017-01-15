@@ -4,12 +4,12 @@
     "link": "/weixin"
   },
   {
-    "icon": "fa-weibo",
-    "link": "http://weibo.com/chensoft"
-  },
-  {
     "icon": "fa-qq",
     "link": "/qq"
+  },
+  {
+    "icon": "fa-weibo",
+    "link": "http://weibo.com/chensoft"
   },
   {
     "icon": "fa-github",
