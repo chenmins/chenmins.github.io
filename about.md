@@ -6,7 +6,7 @@ permalink: /about/
 
 
 大家好，我是陈敏
-电子邮箱 admin@chenmin.org
+电子邮箱 [admin@chenmin.org](mailto:admin@chenmin.org)
 我是一个为Web开发人员喜欢上网、街舞、花式溜溜球。
 
 # 你是做什么的？
@@ -15,3 +15,9 @@ permalink: /about/
 # 您使用的编程语言是什么？
 当网站制作我喜欢使用JavaScript [Google Web Tookit](http://www.gwtproject.org/).
 我也喜欢java和Linux脚本。 
+
+##微信：minchen123
+![](/static/weixin.jpeg)
+
+##QQ：281284015
+![](/static/qq.jpeg)
