@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+title: Chenmin
+description: Chenmin Blog
+author: Chenmin
+logo: /static/img/avatar.png
+github: https://github.com/chenmins
+about: Free software developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "http://open.chenmin.org/"
+url: "http://open.chenmin.org/"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
