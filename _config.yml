@@ -5,7 +5,7 @@ logo: /static/img/avatar.png
 github: https://github.com/chenmins
 about: Free software developer
 
-baseurl: "http://open.chenmin.org"
+baseurl: "//open.xza.tv"
 url: "http://open.chenmin.org"
 rooturl: "http://www.chenmin.org"
 
